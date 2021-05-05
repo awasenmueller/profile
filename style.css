@@ -23,6 +23,13 @@ a:hover {
   text-decoration: underline;
 }
 
+.btn-red {
+  background-color: #f67280;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 4px;
+}
+
 .container {
   width: 700px;   /* This sets the width */
   margin: 40px auto; /* This automatically sets left/right margins */
